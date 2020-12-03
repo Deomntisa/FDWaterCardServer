@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.email 1994769112@qq.com
           git config --global user.name Demontisa
-          git add notices.json lastUpdate
+          git add getLeftMoney.json lastUpdate
           git commit -m "update new json" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
