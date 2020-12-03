@@ -1,0 +1,30 @@
+{
+    "statusCode": "200",
+    "message": null,
+    "resultObject": {
+        "id": 42338,
+        "openId": "null",
+        "nickName": "杨振宇",
+        "realName": "杨振宇",
+        "sex": null,
+        "tel": null,
+        "headimgurl": "https://www.yunboys.cn/sjtx/api.php?lx=c1",
+        "schoolId": null,
+        "campusId": null,
+        "loudongId": null,
+        "loucengId": null,
+        "roomId": null,
+        "schoolName": "常工电子",
+        "campusName": null,
+        "loudongName": null,
+        "loucengName": null,
+        "roomName": null,
+        "createTime": 1593437102000,
+        "updateTime": null,
+        "studentNum": "36073020020202011X",
+        "isCheck": null,
+        "amount": "23.76",
+        "isCancel": null,
+        "freeMoney": "906.78"
+    }
+}
