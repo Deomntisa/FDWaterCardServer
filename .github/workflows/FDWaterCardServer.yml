@@ -25,21 +25,8 @@ jobs:
         with:
           python-version: 3.8
           
-      - name: Install requests
-        run: pip install requests
-        
-      - name: Install beautifulsoup4
-        run: pip install beautifulsoup4
-        
-      - name: Install lxml
-        run: pip install lxml
-        
-      - name: Install Dependence
-        run: npm install
-          
       - name: Run lastUpdate.py
         run: python lastUpdate.py
-        
         
       - name: commit #上传新的refresh_token
         run: |
